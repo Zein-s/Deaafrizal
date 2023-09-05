@@ -1,0 +1,13 @@
+.img {
+  max-width: 500px;
+  border-radius: 6px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(219, 220, 231);
+}
